@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vkeypad_size_entryvalues">
+		<item>large</item>
+		<item>medium</item>
+		<item>small</item>
+	</string-array>
+
+	<string-array name="vkeypad_size_entries">
+		<item>Large</item>
+		<item>Medium</item>
+		<item>Small</item>
+	</string-array>
+	
+	<string-array name="vkeypad_layout_entries">
+		<item>Bottom + Bottom</item>
+		<item>Bottom + Top</item>
+		<item>Top + Bottom</item>
+		<item>Top + Top</item>
+	</string-array>
+	
+	<string-array name="vkeypad_layout_entryvalues">
+		<item>bottom_bottom</item>
+		<item>bottom_top</item>
+		<item>top_bottom</item>
+		<item>top_top</item>
+	</string-array>
+	
+	<string-array name="exit_game_options">
+	    <item>Resume game</item>
+		<item>Load ROM</item>
+		<item>Save and Quit</item>
+		<item>Quit</item>
+	</string-array>
+</resources>
